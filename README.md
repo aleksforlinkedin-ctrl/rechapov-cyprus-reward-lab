@@ -2,6 +2,8 @@
 
 React + TypeScript прототип этапа 3: три UX-концепции дневных наград. В репозиторий входит только приложение `reward-lab`; исходные PDF и исследовательские документы из родительской папки исключены. UX/UI и модель наград сохранены. Figma и финальный 3D-арт в этом этапе не создавались.
 
+Онлайн: [rechapov-cyprus-reward-lab.vercel.app](https://rechapov-cyprus-reward-lab.vercel.app). Настройки публикации и обновлений описаны в [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md).
+
 ## Запуск
 
 ```sh
